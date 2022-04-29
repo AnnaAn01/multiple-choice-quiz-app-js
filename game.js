@@ -12,7 +12,7 @@ let availableQuestions = [];
 
 let questions = [
   {
-    question: "The tallest building in the world is located in whicj city? ",
+    question: "The tallest building in the world is located in which city? ",
     choice1: "Dubai",
     choice2: "New York",
     choice3: "Shanghai",
